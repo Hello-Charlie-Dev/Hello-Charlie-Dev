@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Charlie
 - 👀 I’m interested in data engineering, node js, python.
 - 🌱 I’m currently learning SQL, Python & JS.
-- 💞️ I’m looking to collaborate on Amazon.
 - 📫 How to reach me carlos.perez2590@gmail.com
 
 <!---
